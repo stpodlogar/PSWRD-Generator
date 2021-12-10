@@ -1,6 +1,6 @@
 # PSWRD Generator
 
-Simple terminal application to generate strong random passwords for online security. :lock
+Simple terminal application to generate strong random passwords for online security. :lock:
 
 ## Future things I'd like to implement:
 
