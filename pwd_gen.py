@@ -23,6 +23,6 @@ def generate_pwd():
     #combine temp array to create password
     password = ''.join(temp)
 
-    print(password)
+    print(f'\n{password}\n')
 
 generate_pwd()
